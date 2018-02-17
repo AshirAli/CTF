@@ -6,6 +6,7 @@ CaptureTheFlag Hacking Competition<br>
 - **Web Exploitation:**
 	- SQL Injection
 	- Inspect Element
+	- PHP Vulnerabilities : strcmp, authentication
 
 - **Cryptography:**
 	- Encode/Decode Number Systems.

@@ -1,4 +1,5 @@
 # CTF
+[Link to temporary website](https://hackitctf.wordpress.com/)
 CaptureTheFlag Hacking Competition<br>
 ### Number of challenges: 10to15<br>
 ## Category of Challenges:

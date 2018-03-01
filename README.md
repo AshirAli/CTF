@@ -1,6 +1,5 @@
 # CTF
-[Link to temporary website](https://hackitctf.wordpress.com/)<br>
-CaptureTheFlag Hacking Competition<br>
+# Website :: Download the folder Website and open index.html in browser
 ### Number of challenges: 10to15<br>
 ## Category of Challenges:
 
